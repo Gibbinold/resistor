@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Resistors</folder>
+	<filename>resistor (18).jpg</filename>
+	<path>/Users/Joe/Library/Mobile Documents/com~apple~CloudDocs/Documents/Uni-Stuff/OneDrive - University of Strathclyde/19469 - Individual Project/Data-Clean/Resistors/resistor (18).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>resistor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>89</ymin>
+			<xmax>626</xmax>
+			<ymax>489</ymax>
+		</bndbox>
+	</object>
+</annotation>
